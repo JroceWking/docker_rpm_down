@@ -3,4 +3,12 @@
      用户
      目录
      依赖
+<<<<<<< Updated upstream
      rpm包
+=======
+     rpm包
+   docker配置处理规划：
+     docker的规划
+
+   测试docker库
+>>>>>>> Stashed changes
